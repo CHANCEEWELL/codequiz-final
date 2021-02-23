@@ -32,6 +32,7 @@ WHEN the game is over
 THEN I can save my initials and score
 ```
 
-![](images/Code-Quiz.png)
+Screen Recording of JavaScript Quiz: 
+https://share.vidyard.com/watch/3pbDzdDE2RbEJiqEJeinuB?
 
 ## Deployment Link
