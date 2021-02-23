@@ -48,8 +48,3 @@ THEN I can save my initials and score
 
 ## Screen Shots
 
-/Users/chanceewell/Developer/projects-utah-university/Code-Quiz-HW4-main/Assets/Chance-screenshot-1.png
-
-/Users/chanceewell/Developer/projects-utah-university/Code-Quiz-HW4-main/Assets/Chance-screenshot-2.png
-
-/Users/chanceewell/Developer/projects-utah-university/Code-Quiz-HW4-main/Assets/Chance-screenshot-3.png
