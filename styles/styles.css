@@ -1,6 +1,6 @@
 :root{
-    --main-color:green;
-    --main-hover-color:black;
+    --main-color:rgb(0, 128, 36);
+    --main-hover-color:rgb(0, 0, 0);
 }
 .btn-primary{
     background-color: var(--main-color);
