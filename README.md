@@ -33,10 +33,10 @@ THEN I can save my initials and score
 ```
 
 ## Screen Recording of JavaScript Quiz: 
-https://share.vidyard.com/watch/rMkb5DL4d4gR1tQSDJwbUA?
+# https://share.vidyard.com/watch/rMkb5DL4d4gR1tQSDJwbUA?
 
 ## Deployment Link
-https://chanceewell.github.io/codequiz-final/index.html
+# https://chanceewell.github.io/codequiz-final/index.html
 
 ## Languages Used
 
